@@ -36,10 +36,11 @@ body{
 }
 
 p#anouncement{
-	color:#9e815b;
+	font-family: Calibri;
+	color: #c8b090;
 	text-align:right;
-	font-size:36px;
-	text-shadow:#CBB 1px 1px 0;
+	font-size:24px;
+	/* text-shadow:#CBB 1px 1px 0; */
 }
 
 #vk_like, #fb_root{
