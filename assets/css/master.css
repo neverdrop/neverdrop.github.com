@@ -46,3 +46,8 @@ p#anouncement{
 #vk_like, #fb_root, #fb_like, #fb_btn, #plusone_btn, #twitter_btn{
 	float:left;
 }
+
+iframe{
+	display:block;
+	float:left;
+}
