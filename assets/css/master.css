@@ -50,6 +50,8 @@ p#anouncement{
 ul#social_block{
 	display:block;
 	list-style-type:none;
+	width: 400px;
+	margin:0 auto;
 }
 
 #social_block li{
