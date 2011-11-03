@@ -16,7 +16,7 @@ img, fieldset {
   border-style:initial;
   border-top-width:0;
 }
-header, hgroup, menu, nav, section, footer {
+header, hgroup, iframe, menu, nav, section, footer {
   display:block;
 }
 
