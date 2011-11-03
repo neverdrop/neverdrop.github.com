@@ -43,6 +43,6 @@ p#anouncement{
 	/* text-shadow:#CBB 1px 1px 0; */
 }
 
-#vk_like, #fb_root, #fb_like, iframe{
+#vk_like, #fb_root, #fb_like, #plusone_btn, #twitter_btn{
 	float:left;
 }
