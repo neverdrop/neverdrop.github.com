@@ -44,6 +44,5 @@ p#anouncement{
 }
 
 #vk_like, #fb_root, #fb_like, iframe{
-	clear:none;
 	float:left;
 }
