@@ -25,6 +25,7 @@ body{
 	width:100%;
 	height:100%;
 	background:#0e0f27;
+	background-image: -webkit-linear-gradient(-90deg, #0e0f27, #000000);
 	color:#FFF;
 }
 
