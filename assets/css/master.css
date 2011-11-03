@@ -51,3 +51,7 @@ ul#social_block{
 	display:block;
 	list-style-type:none;
 }
+
+#social_block li{
+	float:left;
+}
